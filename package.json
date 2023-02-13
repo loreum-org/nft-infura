@@ -1,0 +1,14 @@
+{
+  "name": "nft-infura",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ipfs.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ipfs-http-client": "^60.0.0"
+  }
+}
